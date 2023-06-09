@@ -1,4 +1,4 @@
-# Todoer Project (React - Deno.js)
+# Todoer Project (React - Deno)
 
 - A website for making todo list made for learning purposes
-- Technologies used: React, Deno.js, MongoDB.
+- Technologies used: React, TypeScript, Deno, MongoDB.

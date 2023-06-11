@@ -28,7 +28,3 @@ app.use(todosRoutes.routes());
 app.use(todosRoutes.allowedMethods());
 
 await app.listen({ port: 8000 });
-
-/////////////////////////////////////
-// const todos = await getDb().collection("todos").find().toArray();
-// todo._id.toString()
